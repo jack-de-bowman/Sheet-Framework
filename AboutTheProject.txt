@@ -1,0 +1,12 @@
+Before reading further, note that I do not claim to have any competencies or anything close to talent, so any criticism is welcomed and would make me really happy not gonna lie.
+On that talent note, I worked alongside AI chat tools (Copilot) so most of the code is not a representation of any substantial knowledge.
+ 
+ 
+This project is dedicated to make my main project "Sheet_Invest" easier to create.
+The core is primarily based on the Tkinter library. 
+It is not a revolutionary tool by any means, but the classes that comes with it are pretty neat way to make GUI in a way that make writing things such as "object = tk.Frame()" not necessary.
+
+
+ 
+ 
+ 
